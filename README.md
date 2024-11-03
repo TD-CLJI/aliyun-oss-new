@@ -82,6 +82,8 @@
 
 由于插件沿用了马同学插件的名字，并 WordPress 官方不再允许在未经授权的情况下使用知名商标（如：Aliyun) 作为插件名称的一部分，所以这个插件并没有提交官方商店的计划。（重新想个名字对我来说太麻烦了~~(￣▽￣)）
 
+在2024年，我使用这个插件遇到了错误“PHP Warning: foreach() argument must be of type array|object, bool given in UrlHelper.php on line 103”于是使用通义灵码修复了这个bug，并放在这个分支中
+
 ## 更新日志
 
 [CHANGELOG.md](CHANGELOG.md)
